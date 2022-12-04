@@ -14,7 +14,7 @@ def main(speed=0, bg_color="grey"):
   
  
 <<<<<<< HEAD
-    """TODO: define different colors here"""
+    """TODO: define colors here"""
 =======
     """TODO: define difft colors """
 >>>>>>> feature_more_colors
