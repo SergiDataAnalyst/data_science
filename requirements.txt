@@ -1,0 +1,2 @@
+This is a file containing the requirements of the repository
+following libraries must be installed: numpy, pandas, turtle and random
